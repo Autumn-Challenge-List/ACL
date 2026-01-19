@@ -1,26 +1,33 @@
 :root {
-    --color-background: FFD88C;
-    --color-on-background: black;
+    --color-background: #FFD88C;
+    --color-on-background: #000;
+
     --color-background-hover: #eee;
-    --color-on-background-hover: black;
-    --color-primary: #FFA500;
-    --color-on-primary: white;
+    --color-on-background-hover: #000;
+
+    /* Make header match the background */
+    --color-primary: #FFD88C;
+    --color-on-primary: #000;
+
     --color-error: #de0000;
-    --color-on-error: white;
+    --color-on-error: #fff;
 }
 
 main.dark,
 header.dark {
     color-scheme: dark;
     --color-background: #1c1b1f;
-    --color-on-background: white;
+    --color-on-background: #fff;
+
     --color-background-hover: #27262c;
-    --color-on-background-hover: white;
-    --color-primary: #631300;
-    --color-primary-disabled: #1f213c;
-    --color-on-primary: white;
+    --color-on-background-hover: #fff;
+
+    /* Make header match the dark background */
+    --color-primary: #1c1b1f;
+    --color-on-primary: #fff;
+
     --color-error: #de0000;
-    --color-on-error: white;
+    --color-on-error: #fff;
 }
 
 html,
@@ -39,10 +46,7 @@ main {
     background-color: var(--color-background);
     color: var(--color-on-background);
     display: grid;
-    grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(
-            16em,
-            1fr
-        );
+    grid-template-columns: minmax(16rem, 1fr) minmax(16rem, 2fr) minmax(16em, 1fr);
     column-gap: 2rem;
 }
 
@@ -53,12 +57,14 @@ header {
     background-color: var(--color-primary);
     color: var(--color-on-primary);
 }
+
 @media screen and (min-width: 1366px) {
     header {
         display: grid;
         padding-inline: 0;
     }
 }
+
 header .logo {
     justify-self: end;
     align-self: center;
@@ -66,6 +72,7 @@ header .logo {
     align-items: flex-end;
     gap: 1rem;
 }
+
 header .nav {
     flex: 1;
 }
@@ -77,6 +84,7 @@ main {
     grid-template-rows: minmax(0, 1fr);
     column-gap: 2rem;
 }
+
 main > div {
     overflow-y: auto;
 }

@@ -1,9 +1,9 @@
 :root {
     /* Page background */
-    --color-background: #FFD88C;
+    --color-background: #FAC057;
     --color-on-background: #000;
 
-    --color-background-hover: #D68900;
+    --color-background-hover: #FFD078;
     --color-on-background-hover: #000;
 
     /* Header / primary accent (make it stand out) */

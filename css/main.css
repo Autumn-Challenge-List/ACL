@@ -19,14 +19,14 @@ header.dark {
     color-scheme: dark;
 
     /* Dark page background */
-    --color-background: #731C08;
+    --color-background: #420C00;
     --color-on-background: #fff;
 
     --color-background-hover: #27262c;
     --color-on-background-hover: #fff;
 
     /* Dark header / primary accent */
-    --color-primary: #631300;
+    --color-primary: #240700;
     --color-primary-disabled: #1f213c;
     --color-on-primary: #fff;
 

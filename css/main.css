@@ -3,7 +3,7 @@
     --color-background: #FFD88C;
     --color-on-background: #000;
 
-    --color-background-hover: #eee;
+    --color-background-hover: #D68900;
     --color-on-background-hover: #000;
 
     /* Header / primary accent (make it stand out) */
@@ -22,7 +22,7 @@ header.dark {
     --color-background: #420C00;
     --color-on-background: #fff;
 
-    --color-background-hover: #27262c;
+    --color-background-hover: #120402;
     --color-on-background-hover: #fff;
 
     /* Dark header / primary accent */

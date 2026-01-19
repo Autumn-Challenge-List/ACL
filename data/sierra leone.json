@@ -8,12 +8,5 @@
     "percentToQualify": "100",
     "Difficulty": "5",
     "Enjoyment": "8"
-        "records": [
-        {
-            "user": "Pentamery",
-            "link": "https://drive.google.com/file/d/190xOh2-J37iAemuNxn_iUaa20FEwcxUZ/view?usp=sharing",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
+        "records":
 }

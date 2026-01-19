@@ -52,11 +52,11 @@ export default {
                         </li>
                         <li>
                         <div class="type-title-sm">Difficulty</div>
-                        <p>Level Difficulty: {{ level.difficulty }}</p>
+                        <p>{{ level.difficulty }}</p>
                         </li>
                         <li>
                         <div class="type-title-sm">Enjoyment</div>
-                        <p>Level Enjoyment: {{ level.enjoyment }}</p>
+                        <p>{{ level.enjoyment }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>

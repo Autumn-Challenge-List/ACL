@@ -1,0 +1,19 @@
+{
+    "id": 130263772,
+    "name": "Neurofunk",
+    "author": "MapleMilkshake",
+    "creators": ["MapleMilkshake"],
+    "verifier": "MapleMilkshake",
+    "verification": "https://www.youtube.com/watch?v=PDqhMYYqbQE",
+    "percentToQualify": "100",
+    "Difficulty": "6",
+    "Enjoyment": "8",
+    "records": [
+        {
+            "user": "Pentamery",
+            "link": "https://drive.google.com/file/d/190xOh2-J37iAemuNxn_iUaa20FEwcxUZ/view?usp=sharing",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

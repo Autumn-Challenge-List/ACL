@@ -1,12 +1,13 @@
 :root {
+    /* Page background */
     --color-background: #FFD88C;
     --color-on-background: #000;
 
     --color-background-hover: #eee;
     --color-on-background-hover: #000;
 
-    /* Make header match the background */
-    --color-primary: #FFD88C;
+    /* Header / primary accent (make it stand out) */
+    --color-primary: #FFA500;
     --color-on-primary: #000;
 
     --color-error: #de0000;
@@ -16,14 +17,17 @@
 main.dark,
 header.dark {
     color-scheme: dark;
+
+    /* Dark page background */
     --color-background: #1c1b1f;
     --color-on-background: #fff;
 
     --color-background-hover: #27262c;
     --color-on-background-hover: #fff;
 
-    /* Make header match the dark background */
-    --color-primary: #1c1b1f;
+    /* Dark header / primary accent */
+    --color-primary: #631300;
+    --color-primary-disabled: #1f213c;
     --color-on-primary: #fff;
 
     --color-error: #de0000;
@@ -56,6 +60,7 @@ header {
     height: 4rem;
     background-color: var(--color-primary);
     color: var(--color-on-primary);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.15);
 }
 
 @media screen and (min-width: 1366px) {

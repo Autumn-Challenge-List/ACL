@@ -8,6 +8,12 @@
     "percentToQualify": "100",
     "difficulty": 4,
     "enjoyment": 8,
-        "records": [
+    "records": [
+        {
+            "user": "Brick",
+            "link": "https://youtu.be/0GJZ6p8LTNo",
+            "percent": 100,
+            "hz": 360
+        }
         ]
 }

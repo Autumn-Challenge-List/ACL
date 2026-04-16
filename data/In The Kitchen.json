@@ -9,5 +9,11 @@
     "difficulty": 2,
     "enjoyment": 8,
     "records": [
+                 {
+                    "user": "Tomato",
+                    "link": "https://youtu.be/5Zz8OazsPl0",
+                    "percent": 100,
+                    "hz": 240
+                }
                 ]
 }

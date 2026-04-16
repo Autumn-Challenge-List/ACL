@@ -9,5 +9,11 @@
     "difficulty": 4,
     "enjoyment": 9,
         "records": [
+            {
+            "user": "Tomato",
+            "link": "https://medal.tv/games/geometry-dash/clips/mrniEHYvwPQXZcv4p?invite=cr-MSx1ZU0sNDQwNTc4MDI2&v=37",
+            "percent": 100,
+            "hz": 240
+            }
         ]
 }

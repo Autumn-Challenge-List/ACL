@@ -9,5 +9,23 @@
     "difficulty": 4,
     "enjoyment": 7,
     "records": [
+        {
+            "user": "MapleMilkshake",
+            "link": "https://www.youtube.com/watch?v=qvP9EadxHMM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Brick",
+            "link": "https://youtu.be/GCqTSCaJIZ4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "BagelMan",
+            "link": "https://youtu.be/yOiqpKmyUtY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }

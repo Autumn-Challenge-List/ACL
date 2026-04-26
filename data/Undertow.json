@@ -9,5 +9,11 @@
     "difficulty": 4,
     "enjoyment": 7,
         "records": [
+            {
+                "user": "MapleMilkshake",
+                "link": "https://youtu.be/dGkM823VR9w",
+                "percent": 100,
+                "hz": 240
+            }
         ]
 }

@@ -10,22 +10,28 @@
     "enjoyment": 8,
         "records": [
             {
-            "user": "MapleMilkshake",
-            "link": "https://www.youtube.com/watch?v=8TGO8WYTiyY",
-            "percent": 100,
-            "hz": 240
+                "user": "MapleMilkshake",
+                "link": "https://www.youtube.com/watch?v=8TGO8WYTiyY",
+                "percent": 100,
+                "hz": 240
             },
             {
-            "user": "Ryxenol7",
-            "link": "https://youtu.be/XuZbRl0fdOk",
-            "percent": 100,
-            "hz": 240
+                "user": "Ryxenol7",
+                "link": "https://youtu.be/XuZbRl0fdOk",
+                "percent": 100,
+                "hz": 240
             },
             {
-            "user": "Tomato",
-            "link": "https://www.youtube.com/watch?v=-Zk4oTwnVzk",
-            "percent": 100,
-            "hz": 240
+                "user": "Tomato",
+                "link": "https://www.youtube.com/watch?v=-Zk4oTwnVzk",
+                "percent": 100,
+                "hz": 240
+            },
+            {
+                "user": "Apendixsstealr",
+                "link": "https://youtu.be/HOTffVp130I?si=kGvBOSFgkS04QOc9",
+                "percent": 100,
+                "hz": 240
             }
         ]
 }

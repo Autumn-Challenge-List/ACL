@@ -9,5 +9,11 @@
     "nong": "Yes",
     "enjoyment": 5,
         "records": [
+            {
+                "user": "Tomato",
+                "link": "https://youtu.be/SymS7x_jRzY",
+                "percent": 100,
+                "hz": 240
+            }
         ]
 }

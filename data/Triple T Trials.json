@@ -9,5 +9,11 @@
     "nong": "Yes",
     "enjoyment": 9,
         "records": [
+            {
+                "user": "Dyno",
+                "link": "https://medal.tv/games/geometry-dash/clips/mypJ1gVvXVVkWhXvQ?invite=cr-MSxhRzcsMzI4MzYzNDA0&v=25",
+                "percent": 100,
+                "hz": 240
+            }
         ]
 }

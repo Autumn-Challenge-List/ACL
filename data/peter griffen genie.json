@@ -9,5 +9,11 @@
     "nong": "Yes",
     "enjoyment": 7,
         "records": [
+            {
+                "user": "Ryxenolseven",
+                "link": "https://youtu.be/dxyyQUe-vAQ",
+                "percent": 100,
+                "hz": 240
+            }
         ]
 }

@@ -9,11 +9,17 @@
     "nong": "No",
     "enjoyment": 8,
     "records": [
-        {
-            "user": "Brick",
-            "link": "https://youtu.be/0GJZ6p8LTNo",
-            "percent": 100,
-            "hz": 360
-        }
+            {
+                "user": "Brick",
+                "link": "https://youtu.be/0GJZ6p8LTNo",
+                "percent": 100,
+                "hz": 360
+            },
+            {
+                "user": "Tomato",
+                "link": "https://youtu.be/z3WpHQ3IIyg",
+                "percent": 100,
+                "hz": 240
+            }
         ]
 }

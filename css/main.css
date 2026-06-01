@@ -7,10 +7,10 @@
     --color-on-background-hover: #000;
 
     /* Header / primary accent (make it stand out) */
-    --color-primary: #FFA500;
+    --color-primary: #c8361d;
     --color-on-primary: #000;
 
-    --color-error: #de0000;
+    --color-error: #e05c2b;
     --color-on-error: #fff;
 }
 
@@ -19,18 +19,18 @@ header.dark {
     color-scheme: dark;
 
     /* Dark page background */
-    --color-background: #420C00;
+    --color-background: #851811;
     --color-on-background: #fff;
 
-    --color-background-hover: #120402;
+    --color-background-hover: #510b0b;
     --color-on-background-hover: #fff;
 
     /* Dark header / primary accent */
-    --color-primary: #240700;
-    --color-primary-disabled: #1f213c;
+    --color-primary: #510b0b;
+    --color-primary-disabled: #851811;
     --color-on-primary: #fff;
 
-    --color-error: #de0000;
+    --color-error: #851811;
     --color-on-error: #fff;
 }
 

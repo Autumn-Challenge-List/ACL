@@ -9,5 +9,11 @@
     "nong": "Yes",
     "enjoyment": 6,
         "records": [
+            {
+                "user": "Probro675",
+                "link": "https://youtu.be/YoYezJTZTzY?si=6NWwW1fqodzkdX8a",
+                "percent": 100,
+                "hz": 240
+            }
         ]
 }

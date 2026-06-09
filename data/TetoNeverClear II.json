@@ -9,23 +9,23 @@
     "nong": "Yes",
     "enjoyment": 7,
     "records": [
-                    {
-                    "user": "Tomato",
-                    "link": "https://www.youtube.com/watch?v=-Zk4oTwnVzk",
-                    "percent": 100,
-                    "hz": 240
-                    },
-                    {
-                    "user": "Ryxenolseven",
-                    "link": "https://youtu.be/jF4pZNZpI4s",
-                    "percent": 100,
-                    "hz": 240
-                                    },
+            {
+                "user": "Tomato",
+                "link": "https://www.youtube.com/watch?v=-Zk4oTwnVzk",
+                "percent": 100,
+                "hz": 240
+            },
+            {
+                "user": "Ryxenolseven",
+                "link": "https://youtu.be/jF4pZNZpI4s",
+                "percent": 100,
+                "hz": 240
+            },
             {
                 "user": "Rkx",
                 "link": "https://youtu.be/kZOmbLPdk9k",
                 "percent": 100,
-                "hz": 60
-                    }
-                ]
+                "hz": 240
+            }
+            ]
 }

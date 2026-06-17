@@ -9,5 +9,11 @@
     "nong": "Yes",
     "enjoyment": 10,
         "records": [
+            {
+                "user": "Tomato",
+                "link": "https://discord.com/channels/1462219657485488402/1516192484219289853/1516192484219289853",
+                "percent": 100,
+                "hz": 240
+            }
         ]
 }

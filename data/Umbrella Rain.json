@@ -9,5 +9,11 @@
     "nong": "Yes",
     "enjoyment": 10,
         "records": [
+            {
+                "user": "Pentamery",
+                "link": "https://discord.com/channels/1462219657485488402/1515581568683479081/1515581568683479081",
+                "percent": 100,
+                "hz": 240
+            }
         ]
 }
